@@ -1,0 +1,3 @@
+[submodule "assets/www"]
+	path = assets/www
+	url = https://ups-tla@github.com/ups-tla/MobileApp-Shared.git
